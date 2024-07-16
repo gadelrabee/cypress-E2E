@@ -19,6 +19,8 @@ describe('test automation',()=>{
         registerObj.selectCheckbox()
         registerObj.clickContinue()
 
-    })
+
+        
+    }) 
 
 })
